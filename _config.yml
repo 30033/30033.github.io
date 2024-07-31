@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: 胡辣汤 # the main title
 
-tagline: 胡辣汤 # it will display as the sub-title
+tagline: 水煎包，我爱吃。 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   好记性不如烂笔头
@@ -26,20 +26,20 @@ description: >- # used by seo meta and the atom feed
 url: ""
 
 github:
-  username: github_username # change to your github username
+  username:  # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username:  # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: cck
+  name: 胡辣汤
   email: cname@qq.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    - https://twitter.com/ # change to your twitter homepage
+    - https://github.com/ # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -69,7 +69,7 @@ analytics:
     id: # fill in your Matomo ID
     domain: # fill in your Matomo domain
   cloudflare:
-    id: # fill in your Cloudflare Web Analytics token
+    id: 5UJJANun6P_5aAyRnWatkwherBSjXipGIvMF8rWg # fill in your Cloudflare Web Analytics token
 
 # Pageviews settings
 pageviews:
