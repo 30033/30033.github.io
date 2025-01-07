@@ -95,7 +95,7 @@ def v2m(mobile):
     decrypted_text = aes_ecb_decrypt(bytes.fromhex(plaintext), key)
     return decrypted_text
 
-res=v2m(mobile)
+res=v2m(idx)
 return res
 $function$;
 
