@@ -1,13 +1,13 @@
 ---
 categories: [Linux]
-tags: [postgresql,tools,python,函数]
+tags: [PostgreSQL,tools,python,函数]
 ---
 
-## 已安装的Postgresql中使用Python写的函数
+## 已安装的PostgreSQL中使用Python写的函数
 
 >系统版本：CentOS 7.9.2009
 >
->Postgresql版本:17.2
+>PostgreSQL版本:17.2
 >
 >Python版本:3.12.7
 
