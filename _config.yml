@@ -213,7 +213,6 @@ exclude:
   - "*.gemspec"
   - docs
   - tools
-  - 333.txt
   - README.md
   - LICENSE
   - "*.config.js"
